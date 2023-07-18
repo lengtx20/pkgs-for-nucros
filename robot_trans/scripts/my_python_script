@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+# import python_package.nucros_status_api
+import robot_trans_node.robot_trans_pose_node
+import robot_trans_node.robot_trans_goal_node
+
+# python_package.nucros_status_api.main()
+robot_trans_node.robot_trans_pose_node
+robot_trans_node.robot_trans_goal_node

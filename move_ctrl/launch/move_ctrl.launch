@@ -1,0 +1,10 @@
+<launch>
+
+
+  <!-- <node name="nucros_status_api_node" pkg="nucros_status_api" type="my_python_script"> -->
+  <node name="move_ctrl_node" pkg="move_ctrl" type="my_python_script">
+  </node>
+
+</launch>
+
+

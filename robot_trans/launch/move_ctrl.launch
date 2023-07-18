@@ -1,0 +1,13 @@
+<launch>
+
+
+  <!-- <node name="nucros_status_api_node" pkg="nucros_status_api" type="my_python_script"> -->
+  <node name="robot_trans_pose_node" pkg="robot_trans" type="my_python_script">
+  </node>
+  <node name="robot_trans_goal_node" pkg="robot_trans" type="my_python_script">
+  </node>
+
+
+</launch>
+
+

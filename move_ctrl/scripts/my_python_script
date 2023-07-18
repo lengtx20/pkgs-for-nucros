@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+# import python_package.nucros_status_api
+import move_ctrl_node.move_ctrl_node
+
+# python_package.nucros_status_api.main()
+move_ctrl_node.move_ctrl_node.main()
